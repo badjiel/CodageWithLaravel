@@ -17,7 +17,7 @@
 
 
         <footer>
-            <p>&copy; Copyrigth {{date('Y')}} &middot; <a href="/about-us">About Us  </a> </p>
+            <p>&copy; Copyrigth {{date('Y')}} </p>
         </footer>
     </body>
 </html>
