@@ -3,8 +3,8 @@
 @section('content')
 
 @section('title', 'About Us |' .config('app.name') )
-
-    <img src="/images/63473574.jfif" alt="Quebec Flag">
+    <!-- Insertion image -->
+    <img src="{{asset('/images/63473574.jfif')}}" alt="Quebec Flag">
     <h1> About Us </h1>
 
     <p> Built with &hearts; by THE NET TEACHERS </p>
