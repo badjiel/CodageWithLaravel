@@ -22,7 +22,7 @@
         <footer>
             <p>
                 &copy; Copyrigth {{date('Y')}}
-                &middot; <a href="about-us">About Us  </a>
+                &middot; <a href="{{route('home')}}">About Us  </a>
             </p>
         </footer>
     </body>
